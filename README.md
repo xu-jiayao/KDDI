@@ -10,7 +10,7 @@
 
 再構成速度は、圧縮センシングのアプリケーションにおける主要な問題の一つです。速度の問題に対処するため、多くの研究はアルゴリズムをハードウェア上で実装することを選択しています。しかし、大量の逆行列計算とベクトル積は、ハードウェア実装と速度向上の2つの主要な障害となっています。これらの2つのボトルネックを克服するために、私たちの研究では、再構成に疎な性質を持つ行列を選択し、行列の疎な性質を活用して再構成を適化し、8Kのリアルタイム再構成を実現しました。
 
-### 使用言語：verilog
+### 使用言語：Verilog
 
 1. **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou, "An 81.92 Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements." 2022 IEEE International Symposium on Circuits and Systems **(ISCAS)**. IEEE, 2022.
 
@@ -30,7 +30,7 @@
 
 圧縮センシングを利用した画像codecの主要な課題は、時間コストと圧縮率です。既存の手法では、伝統的なcodecのencoding手法（例：intra-prediction）が導入され、圧縮率が向上していますが、時間コストが増加しています。以前の成果で改良された再構築方法の一部の処理後のデータが、元のデータよりもさらに疎であることに気付きました。したがって、この一部をencoderに移動し、圧縮率を向上させると同時に、時間コストを大幅に低減しました。 
 
-### 使用言語：matlab
+### 使用言語：MATLAB
 
 3. **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou. "Compressive Sensing Based Image Codec With Partial Pre-Calculation," in **IEEE Transactions on Multimedia**, doi: 10.1109/TMM.2023.3327534. **(IF=8.182)**
 
