@@ -77,5 +77,6 @@ iSWUSTは、モバイルWeb研究室によって開発されたキャンパス�
 ### 使用言語：Objective-C
 
 アプリが既にストアから削除されていますので、現時点では私が担当しているコードのみが公開可能です。
+
 Code Link: https://drive.google.com/drive/folders/18b4DR9fAv26g04fVfTeM9fF_aYwpOp6E?usp=sharing
 
