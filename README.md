@@ -1,4 +1,4 @@
-# KDDI
+# Publication and code
 公開している成果物がある方は公開名称と公開URLは以下通りです。
 
 ## 1
