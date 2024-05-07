@@ -1,4 +1,4 @@
-# Publication and code
+# Publication and code (日本語)
 公開している成果物がある方は公開名称と公開URLは以下通りです。
 
 ## 1
